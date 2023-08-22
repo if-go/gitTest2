@@ -1,0 +1,8 @@
+# 忽略.fire.meta文件
+*.fire.meta
+
+#但是startScene.fire.meta文件除外
+!startScene.fire.meta
+
+#忽略掉文件夹下的文件【文件名/】
+hulue/
